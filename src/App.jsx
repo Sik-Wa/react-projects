@@ -2,7 +2,7 @@
 
 
  import './App.css'
-import Stopwatch from './components/beginner-projects/Stop-watch'
+
 
 function App() {
 
@@ -12,7 +12,7 @@ function App() {
   return (
     <div className=" ">
     
-    <Stopwatch/>
+   
     </div>
   )
 }
