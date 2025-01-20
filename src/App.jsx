@@ -2,7 +2,7 @@
 
 
  import './App.css'
-import Counter from './components/beginner-projects/Counter/'
+import Stopwatch from './components/beginner-projects/Stop-watch'
 
 function App() {
 
@@ -12,7 +12,7 @@ function App() {
   return (
     <div className=" ">
     
-    <Counter/>
+    <Stopwatch/>
     </div>
   )
 }
